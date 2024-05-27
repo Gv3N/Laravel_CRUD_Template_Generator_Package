@@ -1,0 +1,8 @@
+@extends('layouts.app')
+
+@section('content')
+    <div class="container">
+        <h1>Create {{modelName}}</h1>
+        <!-- Create form -->
+    </div>
+@endsection

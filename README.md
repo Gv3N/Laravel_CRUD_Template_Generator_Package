@@ -51,4 +51,4 @@ This package is open-sourced software licensed under the MIT license.
 
 ## Author
 
--   Gv3N baktajivan@gmail.com
+-   Gv3N
